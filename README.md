@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="IMG_1886.png" alt="My image" width="300"/>
-</p>
+<img src="IMG_1886.png" alt="My image" width="300"/>
 #
 
 **`Quantitative Developer | Applied Math Researcher | Full-Stack Engineer`**
