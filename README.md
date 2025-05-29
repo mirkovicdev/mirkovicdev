@@ -8,12 +8,12 @@ Hey! I'm Antonije, an industrial mathematics student, developer, and researcher 
 
 I’m currently pursuing an M.Sc. at NTNU with a strong academic track record, and I’m also building production level full-stack apps and doing research on quantum algorithms for portfolio optimization.
 
-   <p align="left">
+   <!-- <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+   </p> -->
 
 ---
 
@@ -38,10 +38,10 @@ I’m currently pursuing an M.Sc. at NTNU with a strong academic track record, a
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
+# -->
