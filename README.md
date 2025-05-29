@@ -24,9 +24,6 @@ Right now, I’m working as a developer for a startup in Dubai, planning a semes
 - **ECG Web App**  
   Real-time arrhythmia and PVC detector using Polar H10 data, built with Next.js + Tailwind + OpenAI + Convex.
 
-- **Quantum Portfolio Optimization**  
-  Research with a PhD student (Atlanta, USA) on using quantum algorithms to solve cardinality-constrained optimization problems.
-
 - **High-Frequency Crypto Trading System**  
   SOL/USDT strategy using EMA50, Stoch RSI, BTC confirmation, realistic backtesting (fees, slippage, TP/SL logic).
 
@@ -54,7 +51,7 @@ Right now, I’m working as a developer for a startup in Dubai, planning a semes
 
 ### 📊 GitHub Stats
 
-![Antonije's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonijepetrovic&show_icons=true&theme=tokyonight)
+![Antonije's GitHub Stats]()
 
 ---
 
