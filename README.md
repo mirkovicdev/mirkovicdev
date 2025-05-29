@@ -1,8 +1,5 @@
-<!-- # Modeling with Math
+**Modeling with Math. Executing with Code. Generating Alpha 🚀**
 
-# Executing with Code
-
-# Generating Alpha🚀 -->
 <p align="center">
   <img src="IMG_1886.png" alt="My image" width="400"/>
 </p>
