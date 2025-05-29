@@ -1,4 +1,4 @@
-## Modeling with Math. Executing with Code. Generating Alpha 🚀
+## Modeling with Math, Executing with Code, Generating Alpha 🚀
 
 <p align="center">
   <img src="IMG_1886.png" alt="My image" width="400"/>
@@ -42,9 +42,9 @@ I’m currently pursuing an M.Sc. at NTNU with a strong academic track record, a
 
 #
 
-<!-- ### 📊 Stats
+### 📚 Currently Learning
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
+- Qiskit and quantum algorithms for finance
+- Measure theory 
+- Mixed-integer programming and clustering
+- Fourier neural operators
