@@ -1,4 +1,4 @@
-
+# Turning Math and Code into Alpha🚀
 <p align="center">
   <img src="IMG_1886.png" alt="My image" width="400"/>
 </p>
