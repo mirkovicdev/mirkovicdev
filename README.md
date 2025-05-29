@@ -2,6 +2,7 @@
 <p align="center">
   <img src="IMG_1886.png" alt="My image" width="400"/>
 </p>
+
 #
 
 **`Quantitative Developer | Applied Math Researcher | Full-Stack Engineer`**
@@ -46,4 +47,3 @@ I’m currently pursuing an M.Sc. at NTNU with a strong academic track record, a
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-# -->
