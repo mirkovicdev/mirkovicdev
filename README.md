@@ -1,4 +1,4 @@
-## Generating Alpha 🚀
+
 
 <p align="center">
   <img src="IMG_1886.png" alt="My image" width="400"/>
@@ -44,7 +44,6 @@ I’m currently pursuing an M.Sc. at NTNU with a strong academic track record, a
 
 ### 📚 Currently Learning
 
-- Qiskit and quantum algorithms for finance
-- Measure theory 
-- Mixed-integer programming and clustering
+- Quantum Machine Learning
+- Computer Intensive Statistical Methods
 - Fourier neural operators
