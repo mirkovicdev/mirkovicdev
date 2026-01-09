@@ -23,6 +23,7 @@ I’m currently pursuing an M.Sc. at NTNU with a strong academic track record, a
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="LaTeX" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/R/R-original" />
 <img align="left" alt="Julia" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"/>
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -47,3 +48,4 @@ I’m currently pursuing an M.Sc. at NTNU with a strong academic track record, a
 - Quantum Machine Learning
 - Computer Intensive Statistical Methods
 - Fourier neural operators
+- Numerical methods for partial differential equations
